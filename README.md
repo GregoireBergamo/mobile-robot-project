@@ -6,4 +6,4 @@ A camera takes a photo of an environment consisting of a robot, obstacles and a 
 
 A quick demo video can be seen here : 
 
-[!Demo](figures/demo.gif)
+![Demo](figures/demo.gif)
